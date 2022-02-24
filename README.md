@@ -1,4 +1,4 @@
-<font size=10>**Hi there 👋</font>
+**Hi there 👋
 
 **I use .NET and VUE.JS to build stuff. 🚀
 
