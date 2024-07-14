@@ -1,10 +1,12 @@
 **Hi there 👋**
 
-**Frontend developer**
+**I Am**
 
-**Master student in University of Vienna**
+**Frontend Developer**
 
-**Cats lover🐱**
+**Master Student in University of Vienna**
+
+**Cats Lover🐱**
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SUNZHIYUAN0102&show_icons=true&theme=radical)
 
